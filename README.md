@@ -25,7 +25,7 @@
 
 <p align="center"><img src="https://github.com/nxrxka/weblogparser/assets/154493227/757b2c44-2b4e-4c5b-8dfd-7d16a3014eae"></p>
 
-⎷you can open DB file - SQLite DBbrowser.
+⎷you can open DB file -  DB Browser for SQLite.
 
 
 
