@@ -13,7 +13,7 @@
     - 📄type2.log (apache weblog)
 
 
-Put python code file, result, type folder in same location
+Put python code file, weblogresult, weblogtypes folder in same location.
 
 Run python file, parsed DB file will create in weblogresult folder.
 
