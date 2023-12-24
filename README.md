@@ -13,9 +13,9 @@
     - 📄type2.log (apache weblog)
 
 
-Put python code file, weblogresult, weblogtypes folder in same location.
+Put python code file, weblogresult, weblogtypes folders in the same location.
 
-Run python file, parsed DB file will create in weblogresult folder.
+If you run python file, parsed DB file will create in weblogresult folder.
 
 you can open DB file - SQLite DBbrowser
 
