@@ -1,4 +1,4 @@
-222.233.111.123 - - [28/Nov/2023:07:49:18 +0900] "GET /campaign/campaign_list.asp?seq=4743&page=1&searchword= HTTP/1.1" 200 39173
+222.233.111.123 - - [28/Nov/2023:07:49:18 +0900] "GET /test/campaign_list.asp?seq=4743&page=1&searchword= HTTP/1.1" 200 39173
 222.233.111.12 - - [28/Nov/2023:07:49:20 +0900] "GET /view/news_view.asp?seq=5023&searchword=&page= HTTP/1.1" 200 25845
 222.233.111.124 - - [28/Nov/2023:07:49:20 +0900] "GET /view/news_view.asp?seq=4610&searchword=&page= HTTP/1.1" 200 27328
 222.233.111.55 - - [28/Nov/2023:07:49:20 +0900] "GET /view/communication_view.asp?seq=5057&searchword=&page=1 HTTP/1.1" 200 32250
