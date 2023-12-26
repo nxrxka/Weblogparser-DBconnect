@@ -23,11 +23,17 @@
 ⎷If you run python file, parsed DB file will create in weblogresult folder.
 
 
-<p align="center"><img src="https://github.com/nxrxka/weblogparser/assets/154493227/757b2c44-2b4e-4c5b-8dfd-7d16a3014eae"></p>
+---
+<p align="center"><img width="700" src="https://github.com/nxrxka/weblogparser/assets/154493227/3608ca4a-514f-4622-926f-41498ed69c58"></p>
 
-⎷you can open DB file -  DB Browser for SQLite.
+-apache_log
+
+<p align="center"><img src="https://github.com/nxrxka/weblogparser/assets/154493227/71cc139e-5fb1-47d5-908e-4f4da54cfa69"></p>
+
+-IIS_log
 
 
 
+⎷you can open .db file -  DB Browser for SQLite.
 
 
